@@ -2,11 +2,11 @@
 <resources>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
-    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorWhite">#ffffff</color>
     <color name="colorBlack">#000000</color>
     <color name="colorAzul">#0801CC</color>
     <color name="colorVerde">#44FF19</color>
-    <color name="colorNaranja">#FF5C00</color>
-    <color name="colorAzulMarino">#0F09B2</color>
+    <color name="colorNaranja">#ff5c00</color>
+    <color name="colorAzulMarino">#0f09b2</color>
 </resources>
